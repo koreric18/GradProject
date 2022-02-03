@@ -2,7 +2,7 @@
 
 In our project, we explored precision irrigation in tomato vines. We can predict the watering needs of tomato vines by analyzing the Crop Water Stress Index (CWSI) of a plant. This is done through visual and thermal imagery with photos captured by a mobile device and uses convolutional neural networks.
 
-Additionally, we investigated different state-of-the-art semantic segmentation neural networks and evaluated their performances on our tomato dataset. Utilizing SegNets to identify sunlit tomoato leaves, we achieved a test accuracy of 82%. 
+Additionally, we investigated different state-of-the-art semantic segmentation neural networks and evaluated their performances on our tomato dataset. Utilizing SegNets to identify sunlit tomato leaves, we achieved a test accuracy of 82%. 
 
 # Motivation
 
