@@ -15,7 +15,7 @@ California farmers have dealt with droughts within the recent years, relying on 
 
 We capture 1,110 thermal images of tomato vines. With these images, we processed and extracted metadata that is needed to calculate Crop Water Stress Index as well as other attributes. We then manually annotated 1,110 visual images for sunlit leaf semantic segmentation. Using an open-software called Pynovisao, we can customize unsupervised clustering algorithms to support human annotations.
 
-We then trained, evaluated, and testerd 10 state-of-the-art, published, neural networks that are used for semantic segmentation. We graphed four of the top-performing models using commonly used metrics in evaluating the performance of semantic segmentations. These metrics include: accuracy, precision, recall, f1 score, and intersection over union.
+We then trained, evaluated, and tested 10 state-of-the-art, published, neural networks that are used for semantic segmentation. We graphed four of the top-performing models using commonly used metrics in evaluating the performance of semantic segmentations. These metrics include: accuracy, precision, recall, f1 score, and intersection over union.
 
 ![Table](/images/table.png)
 ![Graph](/images/graph.png)
